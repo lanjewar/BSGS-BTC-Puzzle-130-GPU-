@@ -4,8 +4,7 @@ Usage :
  > python bsgs_GPU.py -pubkey 02CEB6CBBCDBDF5EF7150682150F4CE2C6F4807B349827DCDBDD1F2EFA885A2630 -n 100000000000000000 -d 0 -t 64 -b 10 -p 256 -bp 500000 -keyspace 800000000000000000000000000000:ffffffffffffffffffffffffffffff -rand
  
  
-@author: iceland
-@Credit: KanhaVishva and AlbertoBSD
+
 """
 import secp256k1_lib as ice
 import bit
