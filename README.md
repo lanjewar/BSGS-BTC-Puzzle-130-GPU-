@@ -1,5 +1,5 @@
 ## Info
-```python bsgs_GPU.py -pubkey 03633cbe3ec02b9401c5effa144c5b4d22f87940259634858fc7e59b1c09937852 -n 100000000000000000 -d 0 -t 256 -b 20 -p 1024 -bp 5000000 -keyspace 200000000000000000000000000000000:3ffffffffffffffffffffffffffffffff -rand```  
+```python bsgs_GPU3.py -pubkey 03633cbe3ec02b9401c5effa144c5b4d22f87940259634858fc7e59b1c09937852 -n 100000000000000000 -d 0 -t 256 -b 20 -p 1024 -bp 5000000 -keyspace 200000000000000000000000000000000:3ffffffffffffffffffffffffffffffff -rand```  
 _This uses a GPU to find privatekey of the given pubkey._  
 
 # Run
